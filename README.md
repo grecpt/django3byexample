@@ -1,4 +1,3 @@
-# A Django 3 by Example
-A Django Learning Project
+# Django Learning Project
 Featured Projects
 -  Building a Blog Application
