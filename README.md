@@ -1,4 +1,4 @@
-# Django Learning Project
+# Django Learning Projects
 Featured Projects
 -  Building a Blog Application
 -  Building a Social Website
